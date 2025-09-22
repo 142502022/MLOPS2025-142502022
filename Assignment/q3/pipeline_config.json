@@ -1,0 +1,14 @@
+{
+  "pipeline_name": "ResNet_Inference_Pipeline",
+  "data_source": {
+    "type": "local_image_folder",
+    "path": "data",
+    "file_format": "jpg"
+  },
+  "model_architectures": [
+    "resnet34",
+    "resnet50",
+    "resnet101",
+    "resnet152"
+  ]
+}
