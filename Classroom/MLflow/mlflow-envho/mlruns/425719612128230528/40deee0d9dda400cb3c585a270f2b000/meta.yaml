@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/fysiki_mac/Desktop/ML%20OS%20IIT/Assignment/MLOPS2025-142502022/Classroom/MLflow/mlflow-envho/mlruns/425719612128230528/40deee0d9dda400cb3c585a270f2b000/artifacts
+end_time: 1759814375423
+entry_point_name: ''
+experiment_id: '425719612128230528'
+lifecycle_stage: active
+run_id: 40deee0d9dda400cb3c585a270f2b000
+run_name: RF_estimators_50_depth_3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759814372057
+status: 3
+tags: []
+user_id: fysiki_mac

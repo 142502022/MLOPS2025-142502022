@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/fysiki_mac/Desktop/ML%20OS%20IIT/Assignment/MLOPS2025-142502022/Classroom/MLflow/mlflow-envho/mlruns/425719612128230528/530f1d08fa164a31ba5144dc96eb422b/artifacts
+end_time: 1759815537756
+entry_point_name: ''
+experiment_id: '425719612128230528'
+lifecycle_stage: active
+run_id: 530f1d08fa164a31ba5144dc96eb422b
+run_name: LR_C_1.0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759815536061
+status: 3
+tags: []
+user_id: fysiki_mac

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/fysiki_mac/Desktop/ML%20OS%20IIT/Assignment/MLOPS2025-142502022/Classroom/MLflow/mlflow-envho/mlruns/425719612128230528/d385360fcb78488386b5f17bbac94b9e/artifacts
+end_time: 1759814157921
+entry_point_name: ''
+experiment_id: '425719612128230528'
+lifecycle_stage: active
+run_id: d385360fcb78488386b5f17bbac94b9e
+run_name: Hyperparameter Tuning Session
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759814157915
+status: 3
+tags: []
+user_id: fysiki_mac

@@ -1,0 +1,10 @@
+artifact_location: file:///Users/fysiki_mac/Desktop/ML%20OS%20IIT/Assignment/MLOPS2025-142502022/Classroom/MLflow/mlflow-envho/mlruns/425719612128230528/models/m-a6a15c11738d42e283068cd0bca6deda/artifacts
+creation_timestamp: 1759814375607
+experiment_id: '425719612128230528'
+last_updated_timestamp: 1759814377298
+model_id: m-a6a15c11738d42e283068cd0bca6deda
+model_type: null
+name: model
+source_run_id: a538884ecd0c4da59f60164202337c5a
+status: 2
+status_message: null

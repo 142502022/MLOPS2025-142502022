@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/fysiki_mac/Desktop/ML%20OS%20IIT/Assignment/MLOPS2025-142502022/Classroom/MLflow/mlflow-envho/mlruns/425719612128230528/254c13ad8bb147ef9f9dcd89e77b4173/artifacts
+end_time: 1759817000505
+entry_point_name: ''
+experiment_id: '425719612128230528'
+lifecycle_stage: active
+run_id: 254c13ad8bb147ef9f9dcd89e77b4173
+run_name: Logistic Regression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759816998859
+status: 3
+tags: []
+user_id: fysiki_mac

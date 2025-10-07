@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/fysiki_mac/Desktop/ML%20OS%20IIT/Assignment/MLOPS2025-142502022/Classroom/MLflow/mlflow-envho/mlruns/425719612128230528/f70e8f1eceb64a17bf2ee00ee7a9c700/artifacts
+end_time: 1759814381060
+entry_point_name: ''
+experiment_id: '425719612128230528'
+lifecycle_stage: active
+run_id: f70e8f1eceb64a17bf2ee00ee7a9c700
+run_name: Random Forest Classifier
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759814379241
+status: 3
+tags: []
+user_id: fysiki_mac
