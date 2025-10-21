@@ -1,0 +1,52 @@
+_wandb:
+    value:
+        cli_version: 0.22.1
+        e:
+            wqgajwt6lyaqwef41k5iakcrosg78ie2:
+                apple:
+                    ecpuCores: 4
+                    gpuCores: 7
+                    memoryGb: 8
+                    name: Unknown
+                    pcpuCores: 4
+                    ramTotalBytes: "8589934592"
+                    swapTotalBytes: "7516192768"
+                codePath: Classroom/wandb_cloud_deploy_lab_detailed.ipynb
+                codePathLocal: wandb_cloud_deploy_lab_detailed.ipynb
+                cpu_count: 8
+                cpu_count_logical: 8
+                disk:
+                    /:
+                        total: "245107195904"
+                        used: "228498178048"
+                email: 142502022@smail.iitpkd.ac.in
+                executable: /Users/fysiki_mac/Library/jupyterlab-desktop/jlab_server/bin/python
+                git:
+                    commit: 4988ea888fbcdbf85f4de6b9e31ddf660e04ab08
+                    remote: https://github.com/142502022/MLOPS2025-142502022.git
+                host: Rohans-MacBook-Air.local
+                memory:
+                    total: "8589934592"
+                os: macOS-26.0.1-x86_64-i386-64bit
+                program: wandb_cloud_deploy_lab_detailed.ipynb
+                python: CPython 3.8.15
+                root: /Users/fysiki_mac/Desktop/ML OS IIT/Assignment/MLOPS2025-142502022/Classroom
+                startedAt: "2025-10-14T05:14:55.416161Z"
+                writerId: wqgajwt6lyaqwef41k5iakcrosg78ie2
+        m: []
+        python_version: 3.8.15
+        t:
+            "1":
+                - 5
+                - 53
+            "2":
+                - 5
+                - 53
+            "3":
+                - 2
+            "4": 3.8.15
+            "5": 0.22.1
+            "8":
+                - 1
+            "12": 0.22.1
+            "13": darwin-x86_64

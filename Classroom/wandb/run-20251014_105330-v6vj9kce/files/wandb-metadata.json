@@ -1,0 +1,37 @@
+{
+  "os": "macOS-26.0.1-x86_64-i386-64bit",
+  "python": "CPython 3.8.15",
+  "startedAt": "2025-10-14T05:23:30.518052Z",
+  "program": "wandb_cloud_deploy_lab_detailed.ipynb",
+  "codePath": "Classroom/wandb_cloud_deploy_lab_detailed.ipynb",
+  "codePathLocal": "wandb_cloud_deploy_lab_detailed.ipynb",
+  "git": {
+    "remote": "https://github.com/142502022/MLOPS2025-142502022.git",
+    "commit": "4988ea888fbcdbf85f4de6b9e31ddf660e04ab08"
+  },
+  "email": "142502022@smail.iitpkd.ac.in",
+  "root": "/Users/fysiki_mac/Desktop/ML OS IIT/Assignment/MLOPS2025-142502022/Classroom",
+  "host": "Rohans-MacBook-Air.local",
+  "executable": "/Users/fysiki_mac/Library/jupyterlab-desktop/jlab_server/bin/python",
+  "cpu_count": 8,
+  "cpu_count_logical": 8,
+  "disk": {
+    "/": {
+      "total": "245107195904",
+      "used": "230272593920"
+    }
+  },
+  "memory": {
+    "total": "8589934592"
+  },
+  "apple": {
+    "name": "Unknown",
+    "ecpuCores": 4,
+    "pcpuCores": 4,
+    "gpuCores": 7,
+    "memoryGb": 8,
+    "swapTotalBytes": "8589934592",
+    "ramTotalBytes": "8589934592"
+  },
+  "writerId": "lz6gea4k5dgmognyfw0jrnutbj4rzrwx"
+}
