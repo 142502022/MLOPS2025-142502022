@@ -1,0 +1,19 @@
+# Virtual environment
+venv/
+
+# Large files or datasets
+*.zip
+*.tar.gz
+*.dylib
+*.pkl
+*.h5
+*.pt
+*.ckpt
+
+# System / IDE files
+__pycache__/
+.DS_Store
+*.log
+
+# Project-specific data
+Assignment/assignment_5/data/
